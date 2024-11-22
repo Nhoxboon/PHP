@@ -16,16 +16,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nhoxboon"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nhoxboon&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Nhoxboon/PHP.git",
-    "accountId": "655ec6f4-aebb-41e8-815a-41c1f0490b4a"
+    "accountId": "190acd58-fc23-40a6-992b-83a1bdee699c"
   }
 }]]></component>
   <component name="PhpDebugGeneral" listening_started="true" />
@@ -46,6 +46,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.laravel-idea.search-composer-json": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "/Users/admin/Bài tập/PHP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -86,6 +87,7 @@
       <workItem from="1732160895715" duration="375000" />
       <workItem from="1732244640891" duration="2569000" />
       <workItem from="1732247710373" duration="226000" />
+      <workItem from="1732281723207" duration="67000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <option name="closed" value="true" />
