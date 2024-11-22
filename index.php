@@ -1,44 +1,93 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <title>Document</title>
-    <!-- Required meta tags -->
-    <meta charset="utf-8" />
-    <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-
-    <!-- Bootstrap CSS v5.2.1 -->
-    <link
-            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-            rel="stylesheet"
-            integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-            crossorigin="anonymous"
-    />
-    <!-- Option 1: Include in HTML -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-</head>
-
-<body>
-
 <?php
-include 'header.php';
-include 'main.php';
-include 'footer.php';
+$products = [
+    ['id' => 1, 'name' => 'Sản phẩm 1', 'price' => 1000],
+    ['id' => 2, 'name' => 'Sản phẩm 2', 'price' => 2000],
+    ['id' => 3, 'name' => 'Sản phẩm 3', 'price' => 3000],
+];
+
 ?>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý sản phẩm</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<!-- Thanh điều hướng -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Administration</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Trang chủ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Trang ngoài</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Thể loại</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Tác giả</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Bài viết</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
 
-<!-- Bootstrap JavaScript Libraries -->
-<script
-        src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-        crossorigin="anonymous"
-></script>
+<!-- Phần quản lý sản phẩm -->
+<div class="container my-4">
+    <h1 class="mb-3">Quản lý sản phẩm</h1>
+    <a href="./add_product.php" class="btn btn-success mb-3">Thêm mới</a>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>Sản phẩm</th>
+            <th>Giá thành</th>
+            <th>Sửa</th>
+            <th>Xóa</th>
+        </tr>
+        </thead>
+        <tbody>
 
-<script
-        src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
-        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-        crossorigin="anonymous"
-></script>
+
+        <?php foreach ($products as $product): ?>
+            <tr>
+                <td><?php echo $product['name']; ?></td>
+                <td><?php echo number_format($product['price'], 0, ',', '.') . ' VND'; ?></td>
+                <td>
+                    <a href="#" class="btn btn-primary btn-sm">
+                        <i class="bi bi-pencil"></i> <!-- Bootstrap icon for edit -->
+                    </a>
+                </td>
+                <td>
+                    <a href="#" class="btn btn-danger btn-sm">
+                        <i class="bi bi-trash"></i> <!-- Bootstrap icon for delete -->
+                    </a>
+                </td>
+            </tr>
+        <?php endforeach; ?>
+        </tbody>
+    </table>
+</div>
+
+<!-- Footer -->
+<footer class="text-center mt-4 ">
+    <h3>TLU'S MUSIC GARDEN</h3>
+</footer>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
