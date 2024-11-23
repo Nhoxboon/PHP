@@ -38,6 +38,7 @@ if (isset($_GET['delete_id'])) {
 <div class="container my-4">
     <h1 class="mb-3">Quản lý sản phẩm</h1>
     <a href="./add_product.php" class="btn btn-success mb-3">Thêm mới</a>
+    <a href="./upload_pic.php" class=" btn btn-primary mb-3">Upload ảnh</a>
     <table class="table table-striped">
         <thead>
         <tr>
