@@ -1,0 +1,122 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"99e6a402-2d9e-49b6-af7a-db6d906355d8\" name=\"Changes\" comment=\"First\">\r\n      <change afterPath=\"$PROJECT_DIR$/header.php\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/products.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/php.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/php.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/add_product.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/add_product.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/footer.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/edit_product.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/main.php\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"package.json\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"FormatOnSaveOptions\">\r\n    <option name=\"myRunOnSave\" value=\"true\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Nhoxboon&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Nhoxboon/PHP.git&quot;,\r\n    &quot;accountId&quot;: &quot;655ec6f4-aebb-41e8-815a-41c1f0490b4a&quot;\r\n  }\r\n}</component>\r\n  <component name=\"PhpDebugGeneral\" listening_started=\"true\" />\r\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"PHP\" />\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2orv1YYNU89kmI543dA5ptwRRBe\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"PHP Script.index.php.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.laravel-idea.search-composer-json\": \"true\",\r\n    \"git-widget-placeholder\": \"B1\",\r\n    \"last_opened_file_path\": \"C:/xampp/php/php.exe\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"rearrange.code.on.save\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"actions.on.save\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"$PROJECT_DIR$\" />\r\n      <recent name=\"$PROJECT_DIR$/Test\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PS-243.21565.202\" />\r\n        <option value=\"bundled-php-predefined-a98d8de5180a-5fbe0c30323e-com.jetbrains.php.sharedIndexes-PS-243.21565.202\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"99e6a402-2d9e-49b6-af7a-db6d906355d8\" name=\"Changes\" comment=\"\" />\r\n      <created>1731640295865</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1731640295865</updated>\r\n      <workItem from=\"1731640297195\" duration=\"7000\" />\r\n      <workItem from=\"1731640327773\" duration=\"766000\" />\r\n      <workItem from=\"1731756052315\" duration=\"1291000\" />\r\n      <workItem from=\"1731990643103\" duration=\"42000\" />\r\n      <workItem from=\"1732013072476\" duration=\"693000\" />\r\n      <workItem from=\"1732160895715\" duration=\"375000\" />\r\n      <workItem from=\"1732244640891\" duration=\"2569000\" />\r\n      <workItem from=\"1732247710373\" duration=\"226000\" />\r\n      <workItem from=\"1732247949474\" duration=\"1357000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"First\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1732247651873</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1732247651873</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"First\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1732247685720</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1732247685720</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"First\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1732247968657</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1732247968657</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"First\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"First\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8ff6dab3eaa8c5338f19cb862761a896d7bc6490)
++++ b/.idea/workspace.xml	(date 1732288378665)
+@@ -4,15 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="99e6a402-2d9e-49b6-af7a-db6d906355d8" name="Changes" comment="First">
+-      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/products.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
++    <list default="true" id="99e6a402-2d9e-49b6-af7a-db6d906355d8" name="Changes" comment="update">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/add_product.php" beforeDir="false" afterPath="$PROJECT_DIR$/add_product.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/edit_product.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/main.php" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -49,7 +42,7 @@
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+     &quot;url&quot;: &quot;https://github.com/Nhoxboon/PHP.git&quot;,
+-    &quot;accountId&quot;: &quot;655ec6f4-aebb-41e8-815a-41c1f0490b4a&quot;
++    &quot;accountId&quot;: &quot;190acd58-fc23-40a6-992b-83a1bdee699c&quot;
+   }
+ }</component>
+   <component name="PhpDebugGeneral" listening_started="true" />
+@@ -63,24 +56,25 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "PHP Script.index.php.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "RunOnceActivity.laravel-idea.search-composer-json": "true",
+-    "git-widget-placeholder": "B1",
+-    "last_opened_file_path": "C:/xampp/php/php.exe",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "rearrange.code.on.save": "true",
+-    "settings.editor.selected.configurable": "actions.on.save",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;B1&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/xampp/php/php.exe&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$" />
+@@ -112,6 +106,11 @@
+       <workItem from="1732244640891" duration="2569000" />
+       <workItem from="1732247710373" duration="226000" />
+       <workItem from="1732247949474" duration="1357000" />
++      <workItem from="1732288101513" duration="103000" />
++      <workItem from="1732288209785" duration="42000" />
++      <workItem from="1732288257914" duration="47000" />
++      <workItem from="1732288309380" duration="30000" />
++      <workItem from="1732288345085" duration="34000" />
+     </task>
+     <task id="LOCAL-00001" summary="First">
+       <option name="closed" value="true" />
+@@ -137,7 +136,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1732247968657</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="update">
++      <option name="closed" value="true" />
++      <created>1732287955803</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1732287955803</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -145,6 +152,11 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="First" />
+-    <option name="LAST_COMMIT_MESSAGE" value="First" />
++    <MESSAGE value="update" />
++    <option name="LAST_COMMIT_MESSAGE" value="update" />
++  </component>
++  <component name="XSLT-Support.FileAssociations.UIState">
++    <expand />
++    <select />
+   </component>
+ </project>
+\ No newline at end of file
